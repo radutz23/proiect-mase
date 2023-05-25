@@ -1,0 +1,29 @@
+.form-wrap{
+    height: 500px;
+    width: 400px;
+    background-color: lightgray;
+    border-radius: 50px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 2rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.form-wrap input{
+    width: 300px;
+    border-radius: 10px;
+    height: 2rem;
+    border: 0;
+}
+
+.form-wrap .text-area{
+    height: 10rem;
+}
+
+.form-wrap input::placeholder, .form-wrap input::target-text{
+    padding-left: 10px;
+}

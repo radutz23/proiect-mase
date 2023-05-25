@@ -1,0 +1,33 @@
+.contact-links{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.contact-links a:hover{
+transform: scale(1.1);
+transition: 0.2s ease-in;
+}
+
+.homepage-title, .homepage-subtitle{
+    color: white;
+    text-align: center;
+    transform: scale(1.5);
+
+}
+
+.homepage-container{
+    height: 100vh;
+    display: grid;
+    place-content: center;
+    gap: 1rem;
+}
+
+.homepage-button{
+padding: 1rem;
+border-radius: 50px;
+background-color: green;
+color: white;
+text-decoration: none;
+text-align: center;
+}

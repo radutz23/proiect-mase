@@ -1,0 +1,15 @@
+.about-us-background{
+    display: flex;
+    background-color: grey;
+    border-radius: 50px;
+    gap: 2rem;
+    padding: 5rem;
+    margin: 2rem;
+    align-items: center;
+}
+
+.about-us-background p{
+    font-size: 1.5rem;
+    text-align: justify;
+    color: whitesmoke;
+}

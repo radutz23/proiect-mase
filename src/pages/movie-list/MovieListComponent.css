@@ -1,0 +1,90 @@
+.movie-list {
+  display: grid;
+  /* grid-auto-flow: column; */
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 50px;
+  justify-content: center;
+  margin: 1rem 0.5rem;
+}
+
+.movie-list--title {
+  /* text-align: center; */
+  font-size: 2.5rem;
+  padding: 0 1rem;
+  color: white;
+  text-shadow: 1px 1px 1px black;
+}
+
+.hello-user{
+  font-size: 2rem;
+}
+
+.filters{
+  display: flex;
+  flex-direction: column;
+  padding: 0 1rem;
+  background-color: white;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.nav-header{
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: #2E8B57	;
+  color: white;
+}
+
+
+/* CSS */
+.button-24 {
+  background: #FF4742;
+  border: 1px solid #FF4742;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 16px;
+  min-height: 40px;
+  outline: 0;
+  padding: 12px 14px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+}
+
+.button-24:hover,
+.button-24:active {
+  background-color: initial;
+  background-position: 0 0;
+  color: #FF4742;
+}
+
+.button-24:active {
+  opacity: .5;
+}
+
+body{
+  background: url('../../assets/background.jpg') no-repeat fixed center;
+}
+
+li article {
+  background: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+li article:hover{
+  transform: scale(1.02);
+  transition: 0.1s ease-in;
+}

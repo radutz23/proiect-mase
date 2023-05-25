@@ -1,0 +1,164 @@
+{
+  "movies": [
+    {
+      "Title": "Enter the weird world of the echidna",
+      "Year": "2023",
+      "Price": "20.11",
+      "Currency": "USD",
+      "id": "tt0458339",
+      "Type": "animals",
+      "Poster": "https://i.natgeofe.com/n/2ee58e60-946d-4a66-95a2-9611e579dae0/STOCK_MZ3961_20160125_DSC2935.jpg?w=636&h=584",
+      "Supply": "10",
+      "Summary": "Explaining echidnas can strain the vocabulary. Theyre monotremes, or egg-laying mammals they and the platypus are the only such creatures left on Earth. They come with long or short beaks if by beak we mean a smooth tube of snout ending in a tiny, toothless mouth. And theyre called spiny anteaters, but those arent spines theyre rigid, modified hairs. A baby echidna is a puggle. A group of echidnas is a parade—unless theyre mature males waddling after a female in mating season, in which case its a train (often with a younger male at the end, like a callow caboose). These love trains may grow to 10 or more males and may trail a female for days, until she signals the last stop by stretching out on the ground. Then males dig a rut in the earth around her and, sumo-wrestler style, try to shove each other out of the ring. The victor gets to mate with her first—and his male member looks purpose-built for that task."
+    },
+    {
+      "Title": "A year in the fastest-warming place on Earth",
+      "Year": "2000",
+      "Price": "20.00",
+      "Currency": "USD",
+      "id": "tt0212879",
+      "Type": "nature",
+      "Poster": "https://i.natgeofe.com/n/08655fe3-1494-4d91-8005-0dc1eda26fa3/STOCKPKG_MM9857_2019-08-19-092514.jpg?w=1280&h=621.25",
+      "Summary":"“It makes you small,” Stefano Unterthiner says of Svalbard, the Norwegian archipelago perched in the high Arctic, where he and his family spent a year. In 2019 the Italian photographer moved with his wife, Stéphanie, and their young son and daughter to Longyearbyen, Svalbard’s largest settlement. They felt at ease right away: Though the town is home to only about 2,100 people—scientists, tour operators, students—they come from around the globe and represent some 50 nationalities."
+    },
+    {
+      "Title": "How this photographer captured the uneasy coexistence between elephants and humans",
+      "Year": "2006",
+      "Price": "19.89",
+      "Currency": "USD",
+      "id": "tt0098502",
+      "Type": "animals",
+      "Poster": "https://i.natgeofe.com/n/b3b1be0f-830b-45fe-8b2e-b4ebbba7387f/national-geographic-magazine-may-2023-elephants_2x3.jpg?w=693.75&h=1041.25",
+      "Summary": "Brent Stirton is no stranger to photographing elephants and their mysterious ways. A photojournalist who specializes in capturing wildlife and animals’ interactions with humans, Stirton was an obvious choice to highlight the intelligent and adaptable pachyderm for National Geographic’s May issue. Stirton has been passionate about documenting the symbiotic—and sometimes stormy—relationships between animals and humans since witnessing an outpouring of grief over the 2007 death of endangered mountain gorillas in the Democratic Republic of the Congo. So passionate, in fact, that he wasn’t fazed by monsoon season in Southeast Asia while on assignment for National Geographic to photograph the way elephants are learning to live with humans."
+    },
+    {
+      "Title": "A day in the life",
+      "Year": "2004",
+      "Price": "20.50",
+      "Currency": "USD",
+      "Type": "nature",
+      "id": "tt0473445",
+      "Poster": "https://picsum.photos/200/300",
+      "Summary":"Lorem ipsum bla bla bla"
+    },
+    {
+      "Title": "How do you visualize 8 billion people?",
+      "Year": "2023",
+      "Price": "19.66",
+      "Currency": "USD",
+      "id": "tt0059045",
+      "Type": "nature",
+      "Poster": "https://i.natgeofe.com/n/eeb5ba03-86bd-44c4-903e-732182deb488/national-geographic-magazine-april-2023-8-billion_2x3.jpg?w=393.75&h=591.25",
+      "Summary":"Last November, Earth’s population hit eight billion as scientific advances have caused child mortality to plummet and life expectancy to rise.       At the same time, however, scientists predict this century could see the planet’s population peak—followed by a decline that will be felt in some countries more than others. Two nations in particular exemplify these opposing realities and what they might mean for the human race: Nigeria and China. Population change is an abstract concept to illustrate, but National Geographic tasked photographers Justin Jin and Yagazie Emezi to capture its effects in China and Nigeria, respectively, for the April issue cover story."
+    },
+    {
+      "Title": "How two photographers got inside the minds of animals",
+      "Year": "2011",
+      "Price": "20.09",
+      "Currency": "USD",
+      "id": "tt1243972",
+      "Type": "animals",
+      "Poster": "https://i.natgeofe.com/n/21158c38-74eb-4918-a1cb-c7b36d85d83f/national-geographic-magazine-october-2022-animal-minds_3x2.jpg?w=832.5&h=555",
+      "Summary":"Jasper Doest and Paolo Verzone were among the photographers who captured the rich inner lives of animals for National Geographic's October story"
+    },
+    {
+      "Title": "Do octopuses dream?",
+      "Year": "2015",
+      "Price": "19.62",
+      "Currency": "USD",
+      "id": "tt0056174",
+      "Type": "animals",
+      "Poster": "https://i.natgeofe.com/n/bab2df1b-8d62-40fe-97f1-8cfe4d68ff01/NationalGeographic_2773057.jpg?w=1534&h=1022",
+      "Summary": "Studies in several octopus species show they have different stages of sleep, including a quiet form of sleep in which the color-changing animal is a uniform or pale color, and an active stage when its skin flashes different patterns and textures."
+    },
+    {
+      "Title": "Ethereal forest",
+      "Year": "2022",
+      "Price": "19.60",
+      "Currency": "USD",
+      "id": "tt0054257",
+      "Type": "nature",
+      "Poster": "https://i.natgeofe.com/n/851b88d5-f02f-4c65-b70b-82af93a799d7/MM9697_211115_2366.jpg?w=954&h=636",
+      "Summary":"Draped in moss and fringed with ferns, the laurel forests of Madeira are echoes of the ecosystems that held sway across southern Europe millions of years ago. Norway-based photographer Orsolya Haarberg recalls that when she hiked among these trees, some perhaps 800 years old, she felt as if she were “entering a holy space.”"
+    },
+    {
+      "Title": "Wild animals are adapting to city life in surprisingly savvy ways",
+      "Year": 2022,
+      "Price": "20.12",
+      "Currency": "USD",
+      "id": "tt2368537",
+      "Type": "animals",
+      "Poster": "https://i.natgeofe.com/n/851b88d5-f02f-4c65-b70b-82af93a799d7/MM9697_211115_2366.jpg?w=954&h=636",
+      "Summary": "ndeed, it’s hard to imagine that black bears would take so well to living in Asheville. In this progressive city of about 95,000 nestled in the Blue Ridge Mountains, bears shuffle down residential streets in broad daylight and clamber onto people’s decks and front porches. Some Ashevillians have embraced their ursine neighbors, and nearly every person you talk with has a video of their most recent bear encounter on their phone."
+    },
+    {
+      "Title": "These Lake Superior islands are ‘no place for amateurs’",
+      "Year": "2023",
+      "Price": "19.89",
+      "Currency": "USD",
+      "id": "tt0101296",
+      "Type": "nature",
+      "Poster": "https://i.natgeofe.com/n/c0650d7f-c366-4539-969e-02d3007c1bdf/013_APOS_200926_002110_toned.jpg?w=954&h=636",
+      "Summary": "Sand Island’s shoreline is pocked with sea caves carved by ice, wind, and the waves of Lake Superior. The lake has “higher water quality, lower watershed stress, and [lower] shoreline development stress than the other Great Lakes"
+    },
+    {
+      "Title": "Mountain hares are built for snow",
+      "Year": "2023",
+      "Price": "19.51",
+      "Currency": "USD",
+      "id": "tt0043790",
+      "Type": "animals",
+      "Poster": "https://i.natgeofe.com/n/d235cb4a-7a3b-442b-a1b3-5fd3c601ea0f/STOCKPKG_MM9597__L6I7546.jpg?w=954&h=636",
+      "Summary": "This is the domain of the mountain hare. These little mammals are also found in tundra, alpine, and boreal regions across Eurasia. An estimated 99 percent of mountain hares in the United Kingdom live in Scotland, their heartland the rugged Grampian Mountains of the northeast.The mountain hares will seek out shelter within nests—“forms”—in dense vegetation or in shallow depressions—“scrapes”—on the hillside, where they wait out snowstorms: hunched low inside their fur coats, black-tipped ears flattened to their necks. They might rest for days at a time, breaking only every hour or so to stretch or perhaps to briefly graze on hardy heather before returning to their refuge."
+    }
+  ],
+  "cart": [
+    {
+      "movies": [
+        {
+          "movieId": "tt0098503",
+          "quantity": 9
+        },
+        {
+          "movieId": "tt0212879",
+          "quantity": 1
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$W5Y5HUFaIG7Q8Qi3X/pzJeQTAYqp8WqXPX/1z8qI1dDf3q9OI7kp2",
+      "id": 1
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$m7Yb5MO/.9.BWrKuPu/PLuz77I5BfpeWQSrPBoYygWaPmLKDUyACG",
+      "id": 2
+    }
+  ],
+  "messages": [
+    {
+      "sender": "salut",
+      "mesaj": "asta e un mesaj",
+      "id": 1
+    },
+    {
+      "sender": "salut",
+      "mesaj": "Ati ascultat noua melodie a lui Salam?",
+      "id": 2
+    },
+    {
+      "mesaj": "hello",
+      "sender": "test2@gmail.com",
+      "id": 10
+    },
+    {
+      "mesaj": "llllklkkk",
+      "sender": "test2@gmail.com",
+      "id": 11
+    }
+  ]
+}
